@@ -977,7 +977,7 @@ recipes.addShaped(<GalacticraftCore:item.engine>, [
 // --- Tier 1 Booster
 recipes.addShaped(<GalacticraftCore:item.engine:1>, [
 [<GalacticraftCore:item.meteoricIronIngot:1>, <GalacticraftCore:item.meteoricIronIngot:1>, <GalacticraftCore:item.meteoricIronIngot:1>],
-[HeavyPlating, <GalacticraftCore:item.fuelCanisterPartial:1>, HeavyPlating],
+[HeavyPlating, <GalacticraftCore:item.fuelCanisterPartial:1001>, HeavyPlating],
 [HeavyPlating, AirVent, HeavyPlating]]);
 
 // --- Nose Cone
